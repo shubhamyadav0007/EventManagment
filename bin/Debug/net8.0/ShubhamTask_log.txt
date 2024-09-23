@@ -1,0 +1,6 @@
+[2024-09-23 00:25:54] Operation: Create
+ Task Details
+ ID: 7bc43c3d-ea32-425c-8b4b-88fb89c7cfec
+ Description: birthday, Priority: medium, Status: Pending, CreationDate: 23-09-2024 00:25:54, Email: sy335740@gmail.com
+                    -----------------------------------------------                               
+
